@@ -159,7 +159,6 @@ li{
 .global-nav.nav-list-links{
     list-style-type: none;
     display: inline-block;
-    text-justify: center;
 }
 .nav-links a{
     display: block;
